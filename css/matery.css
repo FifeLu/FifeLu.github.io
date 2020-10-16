@@ -8,8 +8,8 @@
         font-size: 1rem;
     }
     .bg-cover .title {
-        font-size: 1rem;
-        font-weight: 600;
+        font-size: 3rem;
+        font-weight: 700;
         line-height: 1.85em;
         margin-bottom: 20px;
         position: relative;
@@ -22,11 +22,11 @@
         width: 90%;
     }
 	header .brand-logo .logo-span {
-        font-size: 1rem;
+        font-size: 2rem;
     }
     .bg-cover .title {
-        font-size: 1rem;
-        font-weight: 600;
+        font-size: 4rem;
+        font-weight: 700;
         line-height: 1.85em;
         margin-bottom: 20px;
         position: relative;
@@ -51,8 +51,8 @@
     }
 
     .bg-cover .title {
-        font-size: 1rem;
-        font-weight: 600;
+        font-size: 4rem;
+        font-weight: 700;
         line-height: 1.85em;
         margin-bottom: 20px;
         position: relative;
